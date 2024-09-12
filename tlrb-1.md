@@ -49,6 +49,10 @@ permalink: /tlrb-1
 从掏钱的角度看：花了钱有什么收益？花钱是被迫的还是主动的？
 从赚钱的角度看：这钱你想赚也能赚吗？或者还有别人能赚这个钱吗？怎么才能赚到这个钱？ ​​​
 
+#### 4. 让时间慢下来
+
+时间知觉和年龄的问题有很多相关研究。主要还是因为年龄越大，每天接触的东西就越重复。所以，如果不希望感觉时间飞快流逝，就要开放心态，积极接触和学习新事物。对旧事物也要积极挖掘以前没有关注的细节。
+
 
 ### 杂集
 #### 1. 少操心 by 方三文
@@ -59,3 +63,43 @@ permalink: /tlrb-1
 答：
 尽量少麻烦别人。 少操心别人的事，更不要居高临下地指导、评价别人。 有意愿、能力
 可以主动帮助别人，但不要求任何回报。
+
+#### 2. 草台班子理论 by 天青色的西风
+
+我工作以后才发现，大家都是草台班子。政府草台，企业草台，我也草台，大家都草台，凑合赚钱过日子。一个企业，看着像一台奔驰在高速公路上的豪华轿车，里面其实是几个人蹬着自行车顶个壳。路上的车都是这样，大家谁都不戳破。
+
+#### 3. Learn to use correct pronouns
+
+![pro](./resources/image/learn_to_use_correct_pronouns.jpg "pro")
+
+#### 4. 产品思维转变为问题思维
+
+1. 产品思维：有一个想法 —> 构建一个产品 —> 去找适配的用户和场景
+2. 问题思维：找到一个场景 —> 发现一个问题 —> 提供解决方案
+
+用户购买的动机不是产品本身，而是能够解决他们的问题的结果
+
+如何发现问题：
+
+1. 从工作流种找。我们所处的行业、职能不同，会有不同的工作流，也就是说会有不同的问题等待解决。结束一天工作后，我们可以回顾一下，在今天的工作中，遇到了哪些问题和阻碍？在过往和现在的工作中，有没有一些问题反复出现？
+
+2. 除了工作，我们的生活也是在不断解决问题。
+3. 从已经商业化的产品中找问题。观察现有商业产品要解决的问题和目标群体
+
+#### 5. Embrace the grind
+
+We’re an industry obsessed with automation, with streamlining, with efficiency. One of the foundational texts of our engineering culture, Larry Wall’s [virtues of the programmer](https://web.archive.org/web/20210311050133/https://www.threevirtues.com/), includes laziness:
+
+> **Laziness**: The quality that makes you go to great effort to reduce overall energy expenditure. It makes you write labor-saving programs that other people will find useful and document what you wrote so you don’t have to answer so many questions about it.
+
+I don’t disagree: being able to offload repetitive tasks to a program is one of the best things about knowing how to code. However, sometimes problems can’t be solved by automation. If you’re willing to embrace the grind you’ll look like a magician.
+
+> https://jacobian.org/2021/apr/7/embrace-the-grind/
+
+#### 6. 媒体与转发
+
+媒体与传播-朋友圈转发背后的心理学
+
+- 转发首先是一种表达。分享的核心是那某某，表达的核心是我。分享是那某某说了啥，表达是我跟你说啊，那某某说了啥
+- 大众往往趋向于转发那些表达了他们特有情绪的内容，内容传播需要满足目标群体的心理特征，让其看完后感觉“卧槽，这就是再说我呀”
+- 大众往往趋向于转发那些让下级受众对自己产生所需要印象（Zhuang Bi）的内容或者大众往往趋向于转发那些让自己产生智力优越感的内容。
