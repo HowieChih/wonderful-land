@@ -28,7 +28,7 @@ baseurl: "/wonderful-land/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-logo: {{ site.baseurl }}"/resources/image/logo.svg"
+logo: "./resources/image/logo.svg"
 
 # Build settings
 theme: garth-jekyll-theme
