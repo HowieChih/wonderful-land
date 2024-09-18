@@ -3,7 +3,7 @@ layout: page
 title: "红宝书卷Ⅰ"
 permalink: /tlrb-1
 ---
-![tgcr]({{ site.baseurl }}resources/image/tgcr.jpg "tgcr")
+![tgcr]({{ site.baseurl }}/resources/image/tgcr.jpg "tgcr")
 
 好消息是互联网上有很智者，说过很多颇有智慧的话，或多或少对我的思想和眼界产生了影响。坏消息是互联网是脆弱的，以超链接构筑的世界因为种种原因在快速的消亡，再也找不到。做个记录吧，智慧值得留下。
 
