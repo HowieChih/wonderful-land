@@ -34,6 +34,3 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Add garth theme
 gem 'garth-jekyll-theme', '~> 1.0', '>= 1.0.5'
-
-# Add sass converter
-gem "jekyll-sass-converter"
