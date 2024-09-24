@@ -31,7 +31,7 @@ github_username:  jekyll
 logo: "/resources/image/logo.svg"
 
 # Build settings
-theme: garth-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
 
