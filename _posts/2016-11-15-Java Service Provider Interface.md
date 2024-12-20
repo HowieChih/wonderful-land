@@ -30,17 +30,17 @@ date:   2016-11-15 14:42:21 +0800
 
 ```
 src/main
-	java/com/github/c4rlosmonteiro/imageprocessorservicespi
-		provider
-			JPGImageProcessorProvider.java
-			PNGImageProcessorProvider.java
+    java/com/github/c4rlosmonteiro/imageprocessorservicespi
+	    provider
+	        JPGImageProcessorProvider.java
+		    PNGImageProcessorProvider.java
 		service
-			ImageProcessorService.java
+		    ImageProcessorService.java
 		BasicImageType.java
 		ImageProcessorApp.java
 		Main.java
 resources/META-INF/services
-	com.github.c4rlosmontero.imageprocessorservicespi.service.ImageProcessorService
+    com.github.c4rlosmontero.imageprocessorservicespi.service.ImageProcessorService
 ```
 
 关键代码
