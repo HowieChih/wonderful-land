@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Wonderful Minds - 在哪里生活？"
-date:   2024-09-25 09:25:00 +0800
+title:  "Wonderful Minds - 生活老师傅"
+date:   2025-03-26 09:25:00 +0800
 ---
 
 # 管道疏通
