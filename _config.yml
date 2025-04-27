@@ -31,7 +31,8 @@ github_username:  jekyll
 logo: "/resources/image/logo.svg"
 
 collections:
-  - 杂集
+  杂集:
+    output: true
 
 # Build settings
 theme: minima
