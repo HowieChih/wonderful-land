@@ -5,9 +5,9 @@ permalink: /wlife
 ---
 
 {% for article in site.wonderful-life%}
-    -<h3>
-        <a href="{{ site.baseurl }}/{{article.url}}">
-            {{ article.title }}
+    <h3>
+        <a href="{{ site.baseurl }}{{article.url}}">
+            - {{ article.title }}
         </a>
     </h3>
 {% endfor %}
