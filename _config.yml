@@ -31,7 +31,9 @@ github_username:  jekyll
 logo: "/resources/image/logo.svg"
 
 collections:
-  wlife:
+  wonderful-life:
+    output: true
+  the-little-red-book:
     output: true
 
 # Build settings

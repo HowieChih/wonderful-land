@@ -1,0 +1,13 @@
+---
+layout: page
+title: "红宝书"
+permalink: /tlrb
+---
+
+{% for article in site.the-little-red-book%}
+    -<h3>
+        <a href="{{ site.baseurl }}/{{article.url}}">
+            {{ article.title }}
+        </a>
+    </h3>
+{% endfor %}

@@ -4,10 +4,10 @@ title: "生活杂集"
 permalink: /wlife
 ---
 
-{% for article in site.wlife%}
-    <h2>
-        <a href="{{article.url}}">
+{% for article in site.wonderful-life%}
+    -<h3>
+        <a href="{{ site.baseurl }}/{{article.url}}">
             {{ article.title }}
         </a>
-    </h2>
+    </h3>
 {% endfor %}
