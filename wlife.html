@@ -1,0 +1,13 @@
+---
+layout: page
+title: "生活杂集"
+permalink: /wlife
+---
+
+{% for article in site.wlife%}
+    <h2>
+        <a href="{{article.url}}">
+            {{ article.title }}
+        </a>
+    </h2>
+{% endfor %}

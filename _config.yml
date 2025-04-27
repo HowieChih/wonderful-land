@@ -31,7 +31,7 @@ github_username:  jekyll
 logo: "/resources/image/logo.svg"
 
 collections:
-  杂集:
+  wlife:
     output: true
 
 # Build settings
