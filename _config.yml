@@ -41,13 +41,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-toc
-  
-defaults:
-  - scope:
-      path: "assets"
-      type: "pages"
-    values:
-      published: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
