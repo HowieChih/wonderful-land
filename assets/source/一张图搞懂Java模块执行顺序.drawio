@@ -1,0 +1,49 @@
+<mxfile host="Electron" modified="2024-09-23T12:06:33.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="2a7ZSD9zvjUODXaIme83" version="21.6.1" type="device">
+  <diagram name="第 1 页" id="Dacn3wGBxsZRr8EdZXeF">
+    <mxGraphModel dx="1450" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-2" value="&lt;b&gt;静态代码&lt;/b&gt;&lt;br&gt;&lt;br&gt;静态变量和静态代码块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry width="100" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;父类&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="128" y="35" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;子类&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="128" y="185" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-8" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;①&lt;/font&gt;&lt;/b&gt;" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="20" as="sourcePoint" />
+            <mxPoint x="-20" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-12" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;非静态代码&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;代码块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="25" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-13" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;构造方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="370" y="25" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-14" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;非静态代码&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;代码块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="175" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-15" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;构造方法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="370" y="175" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-16" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;②&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="-10" as="sourcePoint" />
+            <mxPoint x="510" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8YrCWLOXfRt-uvF2OuUF-17" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;③&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="150" as="sourcePoint" />
+            <mxPoint x="510" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

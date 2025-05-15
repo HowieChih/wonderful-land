@@ -1,0 +1,82 @@
+<mxfile host="Electron" modified="2024-09-25T10:59:26.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="DJBWAkkxYrefrMMLvkOk" version="21.6.1" type="device">
+  <diagram name="第 1 页" id="1w5NsC2emiLNdVD03kNB">
+    <mxGraphModel dx="1834" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-1" value="OS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-4" value="OS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-5" value="OS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;不同的操作系统接口或者CPU架构&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="450" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-9" value="JVM Specification" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="210" width="670" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-10" value="JVM 实现" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-11" value="JVM 实现" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-12" value="JVM 实现" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;不同厂商或者不同操作系统实现&lt;br&gt;&lt;br&gt;接收与真实操作系统无关的class文件，将其翻译为对应操作系统的API&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="350" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-17" value="类文件格式规范（The Class File Format）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="490" y="225" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-18" value=".class file" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="110" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-19" value=".class file" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-20" value=".class file" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-21" value="&lt;font style=&quot;&quot;&gt;JVM不关心class文件是如何构建的，也不关心class文件存放在哪里，&lt;br style=&quot;font-size: 13px;&quot;&gt;只关心拿到的二进制数据流是不是符合规范&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;JVM 能加载主版本号 &amp;lt;= JVM规范对应的类文件，比如 OrancleJDK 7 自带的JVM实现(Hotspot)能运行主版本 &amp;lt;= 51的类文件。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;由此可知，你的应用本身是基于JDK8的，但你依赖的三方 lib 可以是 JDK7，JDK6 生成的类文件。&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="700" y="200" width="750" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-23" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;class文件包含字节码指令+其他信息，其他信息里有一项是类文件版本&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="115" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-24" value="Java" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-96" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-25" value="Groovy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-96" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-26" value="Kotlin 等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-96" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-27" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;高级语言&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-96" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-28" value="源码文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-40" width="660" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-29" value="javac" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="30" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-30" value="ECJ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: initial;&quot;&gt;编译器，主要javac、ECJ，这两个程序都是用Java编写的。&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;意味着1. 运行在JVM上&amp;nbsp; &amp;nbsp;2.在其他方法中可以调用编译器方法实现动态编译&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="30" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="37xs_Hc1dv1iKzHrnzp1-34" value="构建工具：&lt;br&gt;&lt;br&gt;Maven、Gradle" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-40" width="120" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

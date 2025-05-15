@@ -33,7 +33,7 @@ date:   2024-09-25 09:25:00 +0800
 
 可能有人会觉得这个疏通器用完后清洗的时候一定很恶心——别忘了，咱们是一个制造业大国，而且电商和物流发达。手摇式疏通器十几元就能买到，还包邮。不愿意洗的话就当是一次性的，用了就扔。
 
-![手摇式疏通器]({{ site.baseurl }}/resources/image/001wQFl7ly1guh2vec7vvj60ly0yy76w02.jpg)
+![手摇式疏通器]({{ site.baseurl }}/assets/image/001wQFl7ly1guh2vec7vvj60ly0yy76w02.jpg)
 
 ## 绿植土
 
