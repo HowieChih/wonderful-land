@@ -1,0 +1,13 @@
+---
+layout: page
+title: "express like a native"
+permalink: /express-like-a-native
+---
+
+{% for article in site.the-little-red-book%}
+    <h3>
+        <a href="{{ site.baseurl }}{{article.url}}">
+            - {{ article.title }}
+        </a>
+    </h3>
+{% endfor %}

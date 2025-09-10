@@ -34,6 +34,8 @@ collections:
     output: true
   the-little-red-book:
     output: true
+  express-like-a-native:
+    output: true
 
 # Build settings
 theme: minima
