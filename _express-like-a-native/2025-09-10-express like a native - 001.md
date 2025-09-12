@@ -4,7 +4,7 @@ title:  "Express Like a Native - 001"
 date:   2025-09-10 12:00:00 +0800
 ---
 
-##### mount
+#### ~ mount
 
 > China’s consumer prices fell more than expected in August while deflation in factory-gate prices persisted, as calls mounted for Beijing to ramp up measures to bolster sluggish domestic demand and cushion weakening exports growth.
 >
@@ -18,7 +18,7 @@ mount - organize, increase, go/climb onto, fix it firmly
 
 
 
-##### in line with
+#### ~ in line with
 
 > The producer price index dropped 2.9% in August from a year ago, in line with economists’ estimates and has stayed flat on a month-on-month basis.
 
@@ -26,7 +26,7 @@ in line with = the same with
 
 
 
-##### wasn't just ...
+#### ~ wasn't just ...
 
 > he wasn't just inconsiderate, he was downright rude.
 
@@ -40,7 +40,7 @@ not only inconsiderate, even downright rude
 
 
 
-##### threaten to ....
+#### ~ threaten to ....
 
 > President Donald Trump’s attack on solar and wind projects threatens to raise energy prices for consumers and undermine a stretched electric grid that’s already straining to meet rapidly growing demand, renewable energy executives warn.
 >
@@ -54,7 +54,7 @@ threatens to raise price and undermine electric grid，不是威胁提高价钱.
 
 
 
-##### a herd of 
+#### ~ a herd of 
 
 a herd of 大型食草动物（likely）
 
@@ -64,7 +64,7 @@ a herd of elephants
 
 
 
-##### put in place
+#### ~ put in place
 
 > The plan put in place by the organizers was controversial.
 
@@ -72,7 +72,7 @@ arrange, adopt, implement
 
 
 
-##### make case for
+#### ~ make case for
 
 > Exclusive: Canada defense review makes case for sticking with F-35 jets, sources say
 
@@ -84,3 +84,21 @@ Canada defense review recommends that Canada should continue using the F-35 jets
 
 
 
+#### ~ person of interest
+
+> We are asking for the public's help identifying this person of interest in connection with the fatal shooting of Charlie Kirk at Utah Valley University. 
+>
+> from FBI Salt Lake City twitter: https://x.com/FBISaltLakeCity/status/1966169520403525760
+
+"Person of interest" is a term used by law enforcement in the United States, Canada, and other countries when identifying someone possibly involved in a criminal investigation who has not been arrested or formally accused of a crime.
+
+It has no legal meaning, but refers to someone in whom the police and/or domestic intelligence services are "interested", either because the person is cooperating with the investigation, may have information that would assist the investigation, or possesses certain characteristics that merit further attention.
+
+#### ~ at large
+
+> BREAKING: Suspect in Charlie Kirk's killing has been interrogated and released, it appears the shooter is still at large.
+
+“at large” 是常用习语。常见用法： 
+
+- 罪犯在逃：The suspect is still at large. = 嫌疑人仍然在逃。 
+- 整体上，普遍地：society at large = 整个社会。
